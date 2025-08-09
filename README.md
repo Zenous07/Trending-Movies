@@ -2,6 +2,8 @@
 
 A modern web application that showcases **trending** and **most popular movies**, built with a responsive UI and real-time data fetching.
 
+🌐 **Live Demo:** [https://github.com/Zenous07/Trending-Movies](https://github.com/Zenous07/Trending-Movies)
+
 ## ✨ Features
 - 📌 **Trending Movies** – View the latest trending movies.
 - ⭐ **Most Popular Movies** – Discover the most-watched and talked-about films.
