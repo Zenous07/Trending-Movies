@@ -13,8 +13,6 @@ A modern web application that showcases **trending** and **most popular movies**
 |----------|---------|---------|
 | React.js | Appwrite | Tailwind CSS |
 
-## 📷 Screenshots
-*(Add screenshots here for better presentation)*
 
 ## 🚀 Getting Started
 
